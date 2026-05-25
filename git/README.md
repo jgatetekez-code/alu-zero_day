@@ -1,1 +1,1 @@
-coding ing.
+ coding ing is good.
