@@ -1,1 +1,1 @@
-my first readme as a developer
+my first readme as a developer in BSE
